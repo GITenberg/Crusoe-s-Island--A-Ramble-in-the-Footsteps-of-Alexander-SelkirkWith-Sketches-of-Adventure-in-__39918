@@ -1,0 +1,38 @@
+_repo: Crusoe-s-Island--A-Ramble-in-the-Footsteps-of-Alexander-SelkirkWith-Sketches-of-Adventure-in-__39918
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, J. Ross (John Ross)
+    alias: Browne, John Ross
+    birthdate: 1821
+    deathdate: 1875
+    gutenberg_agent_id: '33272'
+    url: http://www.gutenberg.org/2009/agents/33272
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39918'
+  lccn: 01016800
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washoe County (Nev.)'
+- !lcsh 'Mines and mineral resources -- California'
+- !lcc 'F850.5'
+- !lcsh 'Juan Fernández Islands'
+- !lcsh 'California -- Social life and customs'
+- !lcsh 'Pacific States -- Description and travel'
+- !lcsh 'Ethnic groups -- California'
+tableOfContents: Crusoe's island -- A dangerous journey -- Observations in office
+  -- A peep at Washoe.
+title: 'Crusoe''s Island: A Ramble in the Footsteps of Alexander Selkirk
+
+  With Sketches of Adventure in California and Washoe'
+url: http://www.gutenberg.org/ebooks/39918
