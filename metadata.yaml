@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33272'
     url: http://www.gutenberg.org/2009/agents/33272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39918#Crusoe-s-Island--A-Ramble-in-the-Footsteps-of-Alexander-SelkirkWith-Sketches-of-Adventure-in-_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-06-04'
 gutenberg_type: Text
